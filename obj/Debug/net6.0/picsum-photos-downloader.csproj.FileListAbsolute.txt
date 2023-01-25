@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\picsum-photos-downloader\bin\Debug\net6.0\picsum-photos-downloader.exe
+C:\Users\user\Desktop\picsum-photos-downloader\bin\Debug\net6.0\picsum-photos-downloader.deps.json
+C:\Users\user\Desktop\picsum-photos-downloader\bin\Debug\net6.0\picsum-photos-downloader.runtimeconfig.json
+C:\Users\user\Desktop\picsum-photos-downloader\bin\Debug\net6.0\picsum-photos-downloader.dll
+C:\Users\user\Desktop\picsum-photos-downloader\bin\Debug\net6.0\picsum-photos-downloader.pdb
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.AssemblyInfo.cs
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.dll
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\refint\picsum-photos-downloader.dll
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.pdb
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\picsum-photos-downloader.genruntimeconfig.cache
+C:\Users\user\Desktop\picsum-photos-downloader\obj\Debug\net6.0\ref\picsum-photos-downloader.dll
